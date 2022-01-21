@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=WordSearch
+comment1.params=
+comment1.target=void\ question1()
+comment1.text=\n\ Add\ methods\ to\ this\ class\ to\ read\ the\ included\ text\n\ file\ with\ a\ scanner.\n\ \n\ You\ will\ need\ to\ print\ some\ of\ your\ answers\ to\ new\ text\ files\ \n\ with\ a\ printstream.\n
+numComments=2
